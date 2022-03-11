@@ -1,0 +1,15 @@
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\bin\Debug\net6.0\ValidaString.exe
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\bin\Debug\net6.0\ValidaString.deps.json
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\bin\Debug\net6.0\ValidaString.runtimeconfig.json
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\bin\Debug\net6.0\ValidaString.dll
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\bin\Debug\net6.0\ValidaString.pdb
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\ValidaString.csproj.AssemblyReference.cache
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\ValidaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\ValidaString.AssemblyInfoInputs.cache
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\ValidaString.AssemblyInfo.cs
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\ValidaString.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\ValidaString.dll
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\refint\ValidaString.dll
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\ValidaString.pdb
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\ValidaString.genruntimeconfig.cache
+C:\xampp\htdocs\PROJETOS\Valida_String C#\ValidaString\obj\Debug\net6.0\ref\ValidaString.dll
